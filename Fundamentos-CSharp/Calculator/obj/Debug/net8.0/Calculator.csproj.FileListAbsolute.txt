@@ -1,0 +1,14 @@
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/josejunior/Development/josejuniordev/Calculator/bin/Debug/net8.0/Calculator
+/home/josejunior/Development/josejuniordev/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/josejunior/Development/josejuniordev/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/josejunior/Development/josejuniordev/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/josejunior/Development/josejuniordev/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/josejunior/Development/josejuniordev/Calculator/obj/Debug/net8.0/ref/Calculator.dll

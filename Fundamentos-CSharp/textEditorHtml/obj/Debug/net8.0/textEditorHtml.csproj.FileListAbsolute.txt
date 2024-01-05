@@ -1,0 +1,14 @@
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/bin/Debug/net8.0/textEditorHtml
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/bin/Debug/net8.0/textEditorHtml.deps.json
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/bin/Debug/net8.0/textEditorHtml.runtimeconfig.json
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/bin/Debug/net8.0/textEditorHtml.dll
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/bin/Debug/net8.0/textEditorHtml.pdb
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.AssemblyInfoInputs.cache
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.AssemblyInfo.cs
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.csproj.CoreCompileInputs.cache
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.dll
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/refint/textEditorHtml.dll
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.pdb
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/textEditorHtml.genruntimeconfig.cache
+/home/josejunior/Development/josejuniordev/EstudandoC#/textEditorHtml/obj/Debug/net8.0/ref/textEditorHtml.dll

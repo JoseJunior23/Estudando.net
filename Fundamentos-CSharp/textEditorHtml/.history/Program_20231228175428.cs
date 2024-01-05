@@ -1,0 +1,3 @@
+﻿using TextEditorHtml;
+
+Menu.Show();
