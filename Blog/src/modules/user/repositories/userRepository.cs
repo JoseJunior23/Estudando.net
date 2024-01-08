@@ -1,15 +1,17 @@
-using Blog.Models;
+using Blog.src.modules.role;
+using Blog.src.modules.user.entities;
+using Blog.src.shared;
+using Blog.src.shared.repositories;
 using Dapper;
 using Microsoft.Data.SqlClient;
 
-namespace Blog.Repositories
+namespace Blog.src.modules.user.repositories
 {
   public class UserRepository : Repository<User>
   {
-    private readonly SqlConnection _connection;
     public UserRepository(SqlConnection connection)
     : base(connection)
-   => _connection = connection;
+   => Database.connection = connection;
 
     public List<User> GetWithRoles()
     {
@@ -24,7 +26,7 @@ namespace Blog.Repositories
       ";
 
       var users = new List<User>();
-      var items = _connection.Query<User, Role, User>(
+      var items = Database.connection.Query<User, Role, User>(
         query,
         (user, role) =>
         {

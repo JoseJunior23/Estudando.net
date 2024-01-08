@@ -1,12 +1,12 @@
+using Blog.src.modules.role;
 using Dapper.Contrib.Extensions;
 
-namespace Blog.Models
+namespace Blog.src.modules.user.entities
 {
   [Table("[User]")]
   public class User
   {
     public User() => Roles = [];
-
     public int Id { get; set; }
     public string Name { get; set; }
     public string Email { get; set; }

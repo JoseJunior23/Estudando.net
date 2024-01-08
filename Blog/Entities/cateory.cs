@@ -1,6 +1,6 @@
 using Dapper.Contrib.Extensions;
 
-namespace Blog.Models
+namespace Blog.Entities
 {
   [Table("[Category]")]
   public class Category
