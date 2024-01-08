@@ -1,6 +1,6 @@
 using Dapper.Contrib.Extensions;
 
-namespace Blog.Entities
+namespace Blog.src.modules.tag.entities
 {
   [Table("[Tag]")]
   public class Tag

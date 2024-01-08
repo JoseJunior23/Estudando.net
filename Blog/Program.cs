@@ -1,4 +1,5 @@
-﻿using Blog.src.modules.user.services;
+﻿using Blog.src.modules.tag.services;
+using Blog.src.modules.user.services;
 using Microsoft.Data.SqlClient;
 
 const string connectionString = "Server=localhost,1433;Database=Blog;User ID=sa;Password=110620#Db;Trusted_Connection=False; TrustServerCertificate=True;";
@@ -31,6 +32,9 @@ static void Load()
     case 1:
       MenuUser.Load();
       break;
+    case 4:
+      MenuTag.Load();
+      break;
     default: Load(); break;
   }
 }
@@ -60,12 +64,4 @@ static void Load()
 //   var roles = repository.GetAll();
 //   foreach (var role in roles)
 //     Console.WriteLine(role.Name);
-// }
-
-// static void ReadTag(SqlConnection connection)
-// {
-//   var repository = new Repository<Role>(connection);
-//   var Items = repository.GetAll();
-//   foreach (var item in Items)
-//     Console.WriteLine(item.Name);
 // }
